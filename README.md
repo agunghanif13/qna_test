@@ -1,2 +1,2 @@
 # qna_test
-List of code for testing LLM in Q&amp;A
+Code list for testing LLM models on Q&A cases.
